@@ -2,12 +2,12 @@
 <a href="www.linkedin.com/in/brycethomasbooking"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a recent graduate and aspiring Cybersecurity Analyst passionate about security operations, threat detection, and incident response. This GitHub showcases my hands-on cybersecurity projects, labs, and continuous learning as I build my career in cybersecurity.
+I am a Cybersecurity Analyst passionate about GRC, security operations, threat detection, and incident response. This GitHub showcases my hands-on cybersecurity projects, labs, and continuous learning as I build my career in cybersecurity.
 
 ## Objective
 
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in computer science has led me to develop a passion for continuously aiming to master my craft in the cybersecurity industy, and I am now eager to transition into this field, specifically aiming to work in GRC or a  Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 
